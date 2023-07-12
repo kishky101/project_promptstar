@@ -8,7 +8,7 @@ const Home = () => {
                 AI-Powered Prompts
             </span>
         </h1>
-        <p className="desc text-center">promptopia is an open-source AI prompting tool for modern world to discover, create and share creative prompts</p>
+        <p className="desc text-center">promptstar is an open-source AI prompting tool for modern world to discover, create and share creative prompts</p>
 
         <Feed />
     </section>
